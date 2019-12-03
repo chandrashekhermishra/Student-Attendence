@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/composer/attendence/app/Http/Controllers/ClassesController.php</file>
+            <file>file:/C:/composer/attendence/storage/logs/laravel-2019-11-21.log</file>
+            <file>file:/C:/composer/attendence/app/Classes.php</file>
+            <file>file:/C:/composer/attendence/routes/web.php</file>
+            <file>file:/C:/composer/attendence/config/app.php</file>
+            <file>file:/C:/composer/attendence/resources/views/class_info/create.blade.php</file>
+            <file>file:/C:/composer/attendence/app/Providers/AppServiceProvider.php</file>
+            <file>file:/C:/composer/attendence/bootstrap/app.php</file>
+            <file>file:/C:/composer/attendence/vendor/composer/ClassLoader.php</file>
+            <file>file:/C:/composer/attendence/resources/views/class_info/index.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
